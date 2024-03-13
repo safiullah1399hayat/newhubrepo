@@ -1,1 +1,2 @@
-new first file
+new first file .
+second changes to file
